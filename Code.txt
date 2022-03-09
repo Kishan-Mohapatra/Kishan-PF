@@ -1,0 +1,78 @@
+<div class="test-wrapper">   
+ <div id="left-btn"class="slide-tb">
+ <span class="material-icons-round">
+                arrow_back_ios
+                </span>
+        </div>
+        
+     <div class="testimonial">       
+     <!-- *********Cards***********  -->
+        <div class="test-wrap">
+            <div class="prof-cir"></div>
+            <div class="testi-para">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, accusamus. Dicta quibusdam perspiciatis placeat perferendis delectus rerum error fugit voluptatem autem incidunt eveniet id, repellat tempora praesentium amet nesciunt quae repudiandae aspernatur quo vel! Alias minus odit deserunt, nam placeat atque. Vel ea quam mollitia error saepe ad aliquam totam!</p>
+            </div>
+            </div>
+                        <!-- *********Cards***********  -->
+        <div class="test-wrap">
+            <div class="prof-cir"></div>
+            <div class="testi-para">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, accusamus. Dicta quibusdam perspiciatis placeat perferendis delectus rerum error fugit voluptatem autem incidunt eveniet id, repellat tempora praesentium amet nesciunt quae repudiandae aspernatur quo vel! Alias minus odit deserunt, nam placeat atque. Vel ea quam mollitia error saepe ad aliquam totam!</p>
+            </div>
+            </div>
+                        <!-- *********Cards***********  -->
+        <div class="test-wrap">
+            <div class="prof-cir"></div>
+            <div class="testi-para">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, accusamus. Dicta quibusdam perspiciatis placeat perferendis delectus rerum error fugit voluptatem autem incidunt eveniet id, repellat tempora praesentium amet nesciunt quae repudiandae aspernatur quo vel! Alias minus odit deserunt, nam placeat atque. Vel ea quam mollitia error saepe ad aliquam totam!</p>
+            </div>
+            </div>
+
+    </div>
+    <div id="right-btn"class="slide-tb"><span class="material-icons-round">
+            arrow_forward_ios
+            </span></div>
+
+
+
+
+   <div class="space-box">
+            <button class="tab-btns">Quick Talk</button>
+            <button class="tab-btns">Say Hello</button>
+        </div>
+        <!-- ****************form1******************* -->
+        <div id="quickcall" class="grid-form">
+            <form action="#" method="submit">
+            <input type="text" placeholder="Full Name" name="full-name" class="form-text">
+            <input type="text" placeholder="Profession" name="profession" class="form-text">
+            <input type="email" placeholder="Email ID" name="email-id" class="form-text">
+            <input type="text" placeholder="Phone Number" name="phone-number" class="form-text">
+            <input type="text" placeholder="Type of Project" name="Type-of-project" class="form-text">
+            <input type="number" placeholder="Expected Budget" name="budget" class="form-text">
+            <!-- <textarea placeholder="Describe yourself here..." name="message" id="quick-msg" cols="20" rows="10" ></textarea> -->
+            <textarea id="quick-msg" rows="10" cols="20" placeholder="Describe yourself here..."></textarea>
+        </form>
+        </div>
+        <div class="form-btns">
+            <input type="Submit" class="submit-btn">
+            <button class="start-btn">Start a Project</button>
+        </div>
+        <!-- ***************form-2**************** -->
+        <div id="sayhello" class="grid-form ">
+            <form action="#" method="submit">
+            <input type="text" placeholder="Full Name" name="full-name" class="form-text">
+            <input type="text" placeholder="Profession" name="profession" class="form-text">
+            <input type="email" placeholder="Email ID" name="email-id" class="form-text">
+            <input type="text" placeholder="Phone Number" name="phone-number" class="form-text">
+            <input type="text" placeholder="Type of Project" name="Type-of-project" class="form-text">
+            <input type="number" placeholder="Expected Budget" name="budget" class="form-text">
+            <!-- <textarea placeholder="Describe yourself here..." name="message" id="quick-msg" cols="20" rows="10" ></textarea> -->
+            <textarea id="quick-msg" rows="10" cols="20" placeholder="Describe yourself here..."></textarea>
+        </form>
+        <div class="form-btns">
+            <input type="Submit" class="submit-btn">
+            <button class="start-btn">Let's Start Something</button>
+        </div>
+        </div>
+
+    </div>
